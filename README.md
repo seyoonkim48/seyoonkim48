@@ -1,5 +1,5 @@
 ### Hi there 👋
-Contact : [Email](seyoonkim48@gmail.com)
+Contact 👉 seyoonkim48@gmail.com
 <!--
 **seyoonkim48/seyoonkim48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
